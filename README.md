@@ -1,4 +1,4 @@
-<h1>checkFlagCard — Fullstack (Spring Boot + Angular)</h1>
+<h1>checkFlagCard — Fullstack (Spring Boot + Angular + IA)</h1>
 
 <p>Este repositório contém uma aplicação fullstack para validação de bandeiras de cartões.<br>
 O projeto é dividido em dois módulos principais:</p>
